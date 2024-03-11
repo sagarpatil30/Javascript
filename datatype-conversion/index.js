@@ -5,7 +5,7 @@ let theValue =  Number(value)
 console.log( theValue);
 console.log(typeof theValue);
 
-let a =10
+let a =101
 console.log(a);
 
 
