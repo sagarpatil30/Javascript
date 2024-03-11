@@ -5,6 +5,9 @@ let theValue =  Number(value)
 console.log( theValue);
 console.log(typeof theValue);
 
+let a =10
+console.log(a);
+
 
 let b = "50"
 let bNumber = Number(b)
