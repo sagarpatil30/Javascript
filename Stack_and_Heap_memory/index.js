@@ -8,4 +8,5 @@
 // Size is known at run time
 // No limit for object memory
 
-console.log('hi');
+let a = 10+20;
+console.log(a);
